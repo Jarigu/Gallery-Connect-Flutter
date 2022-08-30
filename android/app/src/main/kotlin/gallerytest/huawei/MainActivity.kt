@@ -1,4 +1,4 @@
-package com.example.gallery_test
+package gallerytest.huawei
 
 import io.flutter.embedding.android.FlutterActivity
 
